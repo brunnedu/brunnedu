@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Dustin! 👋
+
+I'm a Master's degree student specializing in Data Science, with a passion for machine learning and data analysis. I enjoy working on innovative solutions in data-driven projects.
+
+## 🌐 Connect with me:
+- **Personal Portfolio**: [brunnedu.github.io](https://brunnedu.github.io)
+- **LinkedIn**: [linkedin.com/in/dustin-brunner](https://www.linkedin.com/in/dustin-brunner)
+- **Google Scholar**: [https://scholar.google.com/citations?user=G4x3x_0AAAAJ](https://scholar.google.com/citations?user=G4x3x_0AAAAJ)
+
+Feel free to reach out!
+
 
 <!--
 **brunnedu/brunnedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
