@@ -1,6 +1,6 @@
 ## Hey there! 👋🏼
 
-I'm a Master's degree student specializing in Data Science, passionate about leveraging machine learning and data analysis to solve real-world problems. My journey in open-source began with contributing to the [Darts forecasting library](https://github.com/unit8co/darts) during my time at Unit8. This experience was great, as it gave me the opportunity to help create something useful for others in the community. I really enjoy collaborating with others to build useful solutions that make a difference!
+I'm a Master's degree student specializing in Data Science, passionate about leveraging machine learning and data analysis to solve real-world problems. My journey in open-source began with contributing to the [Darts forecasting library](https://github.com/unit8co/darts) at Unit8. This experience has been great, giving me the opportunity to help create something useful for others in the community. I really enjoy collaborating with others to build practical solutions that make a difference!
 
 
 ## 🌐 Connect with me:
